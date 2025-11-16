@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_primary">#FF0077</color>
+    <color name="light_onPrimary">#FFFFFF</color>
+    <color name="light_background">#F0F8FF</color>
+    <color name="light_onBackground">#1A1C1E</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_onSurface">#1A1C1E</color>
+    <color name="light_accent">#00C853</color>
+    <color name="light_button_color">#FF5722</color>
+    <color name="light_on_button_color">#FFFFFF</color>
+
+    <color name="dark_primary">#FF4081</color>
+    <color name="dark_onPrimary">#FFFFFF</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_onBackground">#E0E0E0</color>
+    <color name="dark_surface">#1F1F1F</color>
+    <color name="dark_onSurface">#E0E0E0</color>
+    <color name="dark_accent">#69F0AE</color>
+    <color name="dark_button_color">#FF9800</color>
+    <color name="dark_on_button_color">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent_white">#33FFFFFF</color> </resources>
