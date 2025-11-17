@@ -56,7 +56,6 @@ Execute o app em um emulador ou dispositivo físico
 📱 Tela do Jogo (exemplo)
 [ Grade 4x3 ou 4x4 de cartas ]
 [ Contador de tentativas ]
-[ Botão de "Pronto" ou "Nova Partida" ]
 
 📌 Conceitos aplicados (POO)
 Encapsulamento
